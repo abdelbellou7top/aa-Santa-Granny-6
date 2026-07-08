@@ -36,16 +36,16 @@
 "min_time_before_gameplay_ads": "60",
 "min_deaths_before_ads": "2",
 
-"use_mediation": "false",
+"use_mediation": "true",
 
 "max_percentage": "70",
 "admob_percentage": "30",
 
-"applovin_activation": "true",
-"unity_activation": "false",
+"applovin_activation": "false",
+"unity_activation": "true",
 "admob_activation": "true",
 
-"applovin_percentage": "50",
-"unity_percentage": "0",
+"applovin_percentage": "0",
+"unity_percentage": "50",
 "admob_percentage_non_mediation": "50"
 }
