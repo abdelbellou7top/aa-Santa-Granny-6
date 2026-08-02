@@ -30,7 +30,7 @@
   "appLovin_app_id": "00000000000000000000000000000000000000000000000000000000",
   "appLovin_banner": "00000000000",
   "appLovin_interstitial": "00000000000",
-  "appLovin_rewarded_video": "00000000000",
+  "appLovin_rewarded": "00000000000",
 
 "gameplay_ads_mode": "aggressive",
 "min_time_before_gameplay_ads": "60",
