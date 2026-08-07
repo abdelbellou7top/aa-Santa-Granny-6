@@ -1,0 +1,16 @@
+{
+  "banner": {
+    "enabled": true,
+    "adUnitId": "",
+    "position": "Bottom"
+  },
+  "interstitial": {
+    "enabled": true,
+    "adUnitId": "",
+    "cooldownSeconds": 60
+  },
+  "rewarded": {
+    "enabled": true,
+    "adUnitId": ""
+  }
+}
