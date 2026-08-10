@@ -19,19 +19,19 @@
       "game_1": {
         "enabled": true,
         "name": "Granny Arab",
-        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/grannyArab.png",
+        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/grannyArab.png?raw=true",
         "store_url": "https://play.google.com/store/apps/details?id=com.granniarabic2.borroco"
       },
       "game_2": {
         "enabled": false,
         "name": "Chess Tactics Pro",
-        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/chess.png",
+        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/chess.png?raw=true",
         "store_url": "https://play.google.com/store/apps/details?id=net.lrstudios.android.chess_problems"
       },
       "game_3": {
         "enabled": true,
         "name": "Kammelna",
-        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/kammelna.png",
+        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/kammelna.png?raw=true",
         "store_url": "https://play.google.com/store/apps/details?id=com.remalit.kammelna"
       },
       "game_4": {
