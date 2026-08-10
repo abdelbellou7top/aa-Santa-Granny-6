@@ -37,7 +37,7 @@
       "game_4": {
         "enabled": true,
         "name": "Subway Surfers",
-        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/subway inter.jpg?raw=true",
+        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/subway inter.png?raw=true",
         "store_url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
         "cooldown_seconds": 0,
         "show_frequency": 1
