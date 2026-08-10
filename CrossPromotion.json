@@ -1,4 +1,18 @@
 {
+  "banner": {
+    "enabled": true,
+    "adUnitId": "ca-app-pub-4578604678644292/7207062823",
+    "position": "Bottom"
+  },
+  "interstitial": {
+    "enabled": true,
+    "adUnitId": "ca-app-pub-4578604678644292/2031978953",
+    "cooldownSeconds": 60
+  },
+  "rewarded": {
+    "enabled": true,
+    "adUnitId": "ca-app-pub-4578604678644292/9311703174"
+  },
   "cross_promotion": {
     "enabled": true,
     "games": {
