@@ -20,15 +20,15 @@
         "enabled": true,
         "name": "Granny Arab",
         "category": "Horror & Action",
-        "review_text": "★ 4.8",
+        "review_text": "4.8",
         "image_url": "https://raw.githubusercontent.com/abdelbellou7top/aa-Santa-Granny-6/main/Img/grannyArab.png",
         "store_url": "https://play.google.com/store/apps/details?id=com.example.granny"
       },
       "game_2": {
-        "enabled": true,
+        "enabled": false,
         "name": "Chess Master",
         "category": "Board & Strategy",
-        "review_text": "★ 4.9",
+        "review_text": "4.9",
         "image_url": "https://raw.githubusercontent.com/abdelbellou7top/aa-Santa-Granny-6/main/Img/chess.png",
         "store_url": "https://play.google.com/store/apps/details?id=com.example.chess"
       },
@@ -44,7 +44,7 @@
         "enabled": true,
         "name": "Subway Surfers",
         "category": "Endless Runner",
-        "review_text": "★ 4.9",
+        "review_text": "4.3",
         "image_url": "https://raw.githubusercontent.com/abdelbellou7top/aa-Santa-Granny-6/main/Img/subway inter.png",
         "store_url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
         "cooldown_seconds": 0,
