@@ -19,25 +19,33 @@
       "game_1": {
         "enabled": true,
         "name": "Granny Arab",
-        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/grannyArab.png?raw=true",
-        "store_url": "https://play.google.com/store/apps/details?id=com.granniarabic2.borroco"
+        "category": "Horror & Action",
+        "review_text": "★ 4.8",
+        "image_url": "https://raw.githubusercontent.com/abdelbellou7top/aa-Santa-Granny-6/main/Img/grannyArab.png",
+        "store_url": "https://play.google.com/store/apps/details?id=com.example.granny"
       },
       "game_2": {
         "enabled": true,
-        "name": "Chess Tactics Pro",
-        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/chess.png?raw=true",
-        "store_url": "https://play.google.com/store/apps/details?id=net.lrstudios.android.chess_problems"
+        "name": "Chess Master",
+        "category": "Board & Strategy",
+        "review_text": "★ 4.9",
+        "image_url": "https://raw.githubusercontent.com/abdelbellou7top/aa-Santa-Granny-6/main/Img/chess.png",
+        "store_url": "https://play.google.com/store/apps/details?id=com.example.chess"
       },
       "game_3": {
         "enabled": true,
-        "name": "Kammelna",
-        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/kammelna.png?raw=true",
-        "store_url": "https://play.google.com/store/apps/details?id=com.remalit.kammelna"
+        "name": "Kammelna Cards",
+        "category": "Card & Casual",
+        "review_text": "★ 4.7",
+        "image_url": "https://raw.githubusercontent.com/abdelbellou7top/aa-Santa-Granny-6/main/Img/kammelna.png",
+        "store_url": "https://play.google.com/store/apps/details?id=com.example.kammelna"
       },
       "game_4": {
         "enabled": true,
         "name": "Subway Surfers",
-        "image_url": "https://github.com/abdelbellou7top/aa-Santa-Granny-6/blob/main/Img/subway inter.png?raw=true",
+        "category": "Endless Runner",
+        "review_text": "★ 4.9",
+        "image_url": "https://raw.githubusercontent.com/abdelbellou7top/aa-Santa-Granny-6/main/Img/subway inter.png",
         "store_url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
         "cooldown_seconds": 0,
         "show_frequency": 1
