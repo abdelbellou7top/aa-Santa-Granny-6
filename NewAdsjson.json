@@ -5,7 +5,7 @@
 
   "banner_activation": "true",
 
-  "gameplay_ads_mode": "limited",
+  "gameplay_ads_mode": "agressive",
   "min_time_before_gameplay_ads": "60",
   "min_deaths_before_ads": "2",
 
