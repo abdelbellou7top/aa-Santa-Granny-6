@@ -9,7 +9,7 @@
   "min_time_before_gameplay_ads": "60",
   "min_deaths_before_ads": "2",
 
-  "max_count_ads": "12",
+  "max_count_ads": "5",
 
   "our_ads1_activation": "true",
   "our_ads1_image_url": "https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/Elsa%20small%20inter%20AD.png",
